@@ -12,7 +12,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=RullianSantos67&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=RullianSantos67&show_icons=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=RullianSantos67&show_icons=true" />
   </picture>
 
   <picture>
@@ -24,7 +24,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RullianSantos67&layout=compact&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RullianSantos67&layout=compact&langs_count=8" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RullianSantos67&layout=compact&langs_count=8" />
   </picture>
 </p>
 
