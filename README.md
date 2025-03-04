@@ -1,7 +1,5 @@
 ## 💻 Olá sou o Rullian José Santos Custódio 👋
 
-### 🌟 **GitHub Stats**
-
 <p align="center">
   <picture>
     <source
@@ -28,7 +26,6 @@
   </picture>
 </p>
 
-### 🚀 **Linguagens e Tecnologias**
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cs,cpp,python,git,github,docker" />
 </p>
